@@ -1,0 +1,20 @@
+{
+  "games":[
+    {
+      "name":"Slope",
+      "url":"https://example.com/slope"
+    },
+    {
+      "name":"Run 3",
+      "url":"https://example.com/run3"
+    },
+    {
+      "name":"Retro Bowl",
+      "url":"https://example.com/retrobowl"
+    },
+    {
+      "name":"Minecraft Classic",
+      "url":"https://classic.minecraft.net"
+    }
+  ]
+}
